@@ -113,14 +113,10 @@ Developed an NLP-powered application that analyzes resumes, matches job descript
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn: [Your LinkedIn URL]
+💼 LinkedIn: https://www.linkedin.com/in/avani-halbe-559185251/
 
-📧 Email: Your Email Address
+📧 Email: avanihalbe@gmail.com
 
 💻 GitHub: https://github.com/avani2518
 
 ---
-
-### ✨ Fun Fact
-
-I love building AI-powered solutions that solve real-world problems and continuously learning new technologies.
