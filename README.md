@@ -95,9 +95,6 @@ Developed an NLP-powered application that analyzes resumes, matches job descript
 
 🥈 HackMITWPU'25 Ideathon Semi-Finalist
 
-📚 AWS Cloud Practitioner Essentials Certified
-
-💻 Active Problem Solver on LeetCode
 
 ---
 
