@@ -1,79 +1,137 @@
 # Hey, I'm Avani Halbe 👋
 
-> *I build things that think — backends that scale, models that predict, and AI that speaks your language.*
+### Building software that solves real problems, not just coding for the sake of coding.
 
-I'm a Computer Science grad from MIT World Peace University, Pune, currently interning as a Java Spring Boot Developer at Ebix Technologies. I care deeply about software that solves real problems — whether that's predicting maternal health risk, helping citizens navigate government forms in their native tongue, or making artisan craft reach the right buyer online.
+I'm a final-year Computer Science Engineering student from Pune who enjoys turning ideas into products that people can actually use.
 
-Right now I'm sharpening my skills in system design, microservices, and cloud architecture while keeping one foot firmly in AI/ML. I like building end-to-end — from the model to the API to the UI.
+Over the last few years, I've worked across **AI, Machine Learning, Full-Stack Development, and Backend Engineering** — from predicting health risks using machine learning models to building AI-powered governance solutions and scalable backend systems.
 
----
+Currently, I'm working as a **Java Spring Boot Developer Intern at Ebix Technologies**, where I'm exploring microservices, event-driven architectures, and enterprise-scale backend development.
 
-## 🔧 What I'm Working With
-
-**Languages**
-`Java` `Python` `JavaScript` `C++` `C`
-
-**Backend**
-`Spring Boot` `Node.js` `Express.js` `FastAPI`
-
-**Frontend**
-`React` `HTML5` `CSS3`
-
-**Databases**
-`PostgreSQL` `MongoDB` `MySQL`
-
-**AI / ML**
-`Scikit-Learn` `XGBoost` `Random Forest` `NumPy` `Pandas` `SBERT` `LLM APIs`
-
-**Tooling**
-`Git` `Docker` `Postman` `VS Code`
+When I'm not coding, you'll probably find me participating in hackathons, solving problems on LeetCode, exploring new technologies, or brainstorming ideas that combine AI with real-world impact.
 
 ---
 
-## 🚀 Things I've Built
+## 🌟 What I'm Working On
 
-### 🤖 VANI — AI-Powered e-Governance Kiosk
-A multilingual AI assistant designed for public kiosks — integrates OCR, NLP, voice interaction, and LLM-powered form assistance so citizens can navigate government services in the language they actually speak.
-`Python` `NLP` `OCR` `LLM` `Voice`
+🔹 Building scalable backend systems using Java & Spring Boot
+
+🔹 Exploring Cloud Computing and Microservices
+
+🔹 Developing AI-powered applications
+
+🔹 Strengthening Data Structures & Algorithms
+
+🔹 Learning System Design and Software Architecture
+
+---
+
+## 🚀 Projects I'm Proud Of
+
+### 🏛️ VANI — AI-Powered e-Governance Assistant
+
+A multilingual AI assistant designed to simplify access to government services.
+
+✨ OCR-based document understanding
+
+✨ Voice-assisted interaction
+
+✨ AI-powered form filling
+
+✨ Multilingual support
+
+**Tech:** Python, NLP, OCR, LLMs
 
 ---
 
 ### 🏥 Predictive Analytics for Maternal & Cardiovascular Health
-Ensemble ML models (Random Forest, XGBoost, AdaBoost, Logistic Regression) that predict maternal, fetal, and heart disease risk — achieving up to **95% accuracy**. Built because early detection shouldn't be a privilege.
-`Scikit-Learn` `XGBoost` `Pandas` `Healthcare ML`
+
+Built machine learning models capable of identifying health risks with up to **95% predictive accuracy**, helping support early medical intervention.
+
+**Tech:** Python, Scikit-Learn, XGBoost, Pandas
 
 ---
 
-### 🛒 Indian Handicrafts E-Commerce Platform
-A full-stack MERN app connecting artisans with buyers — features include secure auth, product management, and payment integration.
-`React` `Node.js` `Express` `MongoDB`
+### 🛍️ Indian Handicrafts E-Commerce Platform
+
+Developed a full-stack marketplace that helps local artisans showcase and sell products online.
+
+**Tech:** MongoDB, Express.js, React.js, Node.js
 
 ---
 
 ### 📄 Resume Builder & Analyzer
-NLP-powered tool that reads your resume, compares it to a job description, and gives you honest, AI-generated suggestions to improve your chances.
-`Python` `NLP` `AI` `Flask`
+
+An NLP-powered platform that analyzes resumes, compares them with job descriptions, and generates personalized improvement suggestions.
+
+**Tech:** Python, Streamlit, NLP, Scikit-Learn
 
 ---
 
-## 🏆 A Couple of Wins
+## 💻 Tech Arsenal
 
-- 🥇 **Smart India Hackathon 2025** — National Qualifier
-- 🥈 **HackMITWPU'25 Ideathon** — Semi-Finalist
+### Languages
+
+Java • Python • C++ • JavaScript • C
+
+### Frontend
+
+React.js • HTML • CSS
+
+### Backend
+
+Spring Boot • Node.js • Express.js • REST APIs
+
+### Databases
+
+MySQL • PostgreSQL • MongoDB
+
+### AI & ML
+
+Scikit-Learn • Pandas • NumPy • XGBoost
+
+### Tools
+
+Git • GitHub • Docker • Postman • VS Code
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Highlights
 
-![Avani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avani2518&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avani2518&layout=compact&theme=tokyonight)
+🏅 Smart India Hackathon 2025 Qualifier
+
+🏅 HackMITWPU'25 Ideathon Semi-Finalist
+
+🏅 Java Spring Boot Developer Intern at Ebix Technologies
+
+🏅 Built AI, Healthcare, and Full-Stack Projects Solving Real-World Problems
 
 ---
 
-## 📬 Let's Connect
+## 📊 GitHub Activity
 
-I'm always open to collaborating on interesting projects or just talking tech.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avani2518\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/avani-halbe-559185251/)
-- 💻 [GitHub](https://github.com/avani2518)
-- 📧 avanihalbe@gmail.com
+![GitHub Streak](https://streak-stats.demolab.com?user=avani2518\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avani2518\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+💼 LinkedIn: [www.linkedin.com/in/avani-halbe-559185251](http://www.linkedin.com/in/avani-halbe-559185251)
+
+📧 Email: [avanihalbe@gmail.com](mailto:avanihalbe@gmail.com)
+
+💻 GitHub: github.com/avani2518
+
+---
+
+### ✨ Fun Fact
+
+I love building projects where **Artificial Intelligence meets real-world impact** — whether it's healthcare, governance, education, or everyday productivity.
+
+My goal is simple:
+
+> Build technology that makes someone's life a little easier.
