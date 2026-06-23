@@ -117,11 +117,3 @@ NLP-powered application that analyzes resumes, matches job descriptions, and gen
 📧 Email: [avanihalbe@gmail.com](mailto:avanihalbe@gmail.com)
 
 💻 GitHub: github.com/avani2518
-
-⭐ If you like my work, feel free to explore my repositories and connect with me.
-
-
-
-
-
-
