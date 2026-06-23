@@ -102,11 +102,7 @@ NLP-powered application that analyzes resumes, matches job descriptions, and gen
 
 # 📊 GitHub Stats
 
-![Avani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avani2518\&show_icons=true\&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=avani2518\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avani2518\&layout=compact\&theme=tokyonight)
 
 ---
 
