@@ -1,3 +1,14 @@
+<h1 align="center">Hi 👋, I'm Avani Halbe</h1>
+
+<h3 align="center">
+Software Developer • AI Enthusiast • Problem Solver
+</h3>
+
+<p align="center">
+Building impactful solutions with AI, Backend Engineering & Full-Stack Development 🚀
+</p>
+
+
 # Hi there 👋
 
 ---
