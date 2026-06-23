@@ -109,3 +109,170 @@ NLP-powered application that analyzes resumes, matches job descriptions, and gen
 📧 Email: [avanihalbe@gmail.com](mailto:avanihalbe@gmail.com)
 
 💻 GitHub: github.com/avani2518
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+<div align="center">
+
+# ✨ Avani Halbe
+
+### Building technology that solves real-world problems.
+
+🚀 Software Developer • AI Enthusiast • Backend Engineer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Java+Spring+Boot+Developer;AI+%26+Machine+Learning+Explorer;Full+Stack+Developer;Building+for+Healthcare+%26+Governance;Always+Learning+Something+New" />
+
+</div>
+
+---
+
+## 🌸 A Little About Me
+
+Hey! I'm **Avani**, a Computer Science student from Pune who loves building products that create real impact.
+
+While many developers build applications, I enjoy building solutions around actual problems:
+
+🏥 Predicting healthcare risks using Machine Learning
+
+🏛️ Simplifying government services through AI
+
+🛒 Creating digital experiences for businesses
+
+⚡ Building scalable backend systems with Java & Spring Boot
+
+Currently, I'm working as a **Java Spring Boot Developer Intern at Ebix Technologies**, where I'm learning how enterprise software is built at scale.
+
+---
+
+## 🚀 Current Adventure
+
+```text
+📍 Learning Microservices & System Design
+📍 Building AI-powered Applications
+📍 Exploring Cloud Technologies
+📍 Solving DSA Problems
+📍 Contributing to Open Source
+```
+
+---
+
+## 💎 Featured Work
+
+### 🏛️ VANI — AI Powered e-Governance Assistant
+
+Making government services accessible through:
+
+✔ OCR Document Understanding
+
+✔ Voice-Based Interaction
+
+✔ Multilingual Support
+
+✔ AI Form Assistance
+
+**Tech:** Python • NLP • OCR • LLMs
+
+---
+
+### 🏥 Predictive Healthcare Analytics
+
+Developed machine learning models capable of predicting maternal, fetal, and cardiovascular risks with up to **95% accuracy**.
+
+**Tech:** Python • XGBoost • Random Forest • Scikit-Learn
+
+---
+
+### 🛍 Indian Handicrafts Marketplace
+
+A MERN-powered e-commerce platform helping artisans connect with customers digitally.
+
+**Tech:** MongoDB • Express • React • Node.js
+
+---
+
+### 📄 Resume Builder & Analyzer
+
+An AI-assisted platform that reviews resumes and provides personalized career recommendations.
+
+**Tech:** Python • NLP • Streamlit
+
+---
+
+## ⚒️ Tech Toolbox
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge\&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge\&logo=python)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge\&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-black?style=for-the-badge\&logo=springboot)
+![NodeJS](https://img.shields.io/badge/NodeJS-black?style=for-the-badge\&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge\&logo=mysql)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge\&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge\&logo=postman)
+
+---
+
+## 🏆 Milestones
+
+🌟 Smart India Hackathon 2025 Qualifier
+
+🌟 HackMITWPU'25 Ideathon Semi-Finalist
+
+🌟 Java Spring Boot Developer Intern @ Ebix Technologies
+
+🌟 Built AI, ML & Full-Stack Solutions for Real-World Use Cases
+
+---
+
+## 📊 GitHub Universe
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=avani2518&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=avani2518&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/avani-halbe-559185251">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:avanihalbe@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+---
+
+### ✨ Philosophy
+
+> "Technology becomes meaningful when it solves problems for real people."
+
+⭐ If you like my work, feel free to explore my repositories and connect with me.
+
+
+
+
+
+
