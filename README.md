@@ -1,124 +1,108 @@
-# Hey, I'm Avani Halbe 👋
-
-### Building software that solves real problems, not just coding for the sake of coding.
-
-I'm a final-year Computer Science Engineering student from Pune who enjoys turning ideas into products that people can actually use.
-
-Over the last few years, I've worked across **AI, Machine Learning, Full-Stack Development, and Backend Engineering** — from predicting health risks using machine learning models to building AI-powered governance solutions and scalable backend systems.
-
-Currently, I'm working as a **Java Spring Boot Developer Intern at Ebix Technologies**, where I'm exploring microservices, event-driven architectures, and enterprise-scale backend development.
-
-When I'm not coding, you'll probably find me participating in hackathons, solving problems on LeetCode, exploring new technologies, or brainstorming ideas that combine AI with real-world impact.
+# Hi there 👋
 
 ---
 
-## 🌟 What I'm Working On
+# 🌟 About Me
 
-🔹 Building scalable backend systems using Java & Spring Boot
+I'm **Avani Halbe**, a Final-Year B.Tech Computer Science & Engineering student at MIT World Peace University, Pune.
 
-🔹 Exploring Cloud Computing and Microservices
+💻 Passionate about Software Development, Artificial Intelligence, Machine Learning, and Backend Engineering.
 
-🔹 Developing AI-powered applications
+🚀 Currently working as a **Java Spring Boot Developer Intern at Ebix Technologies**.
 
-🔹 Strengthening Data Structures & Algorithms
+🌱 Exploring **Microservices, Cloud Computing, System Design, and AI-powered Applications**.
 
-🔹 Learning System Design and Software Architecture
+🏆 Smart India Hackathon 2025 Qualifier | HackMITWPU'25 Ideathon Semi-Finalist.
 
----
-
-## 🚀 Projects I'm Proud Of
-
-### 🏛️ VANI — AI-Powered e-Governance Assistant
-
-A multilingual AI assistant designed to simplify access to government services.
-
-✨ OCR-based document understanding
-
-✨ Voice-assisted interaction
-
-✨ AI-powered form filling
-
-✨ Multilingual support
-
-**Tech:** Python, NLP, OCR, LLMs
+💡 I enjoy building solutions that create real-world impact in healthcare, governance, and digital experiences.
 
 ---
 
-### 🏥 Predictive Analytics for Maternal & Cardiovascular Health
-
-Built machine learning models capable of identifying health risks with up to **95% predictive accuracy**, helping support early medical intervention.
-
-**Tech:** Python, Scikit-Learn, XGBoost, Pandas
-
----
-
-### 🛍️ Indian Handicrafts E-Commerce Platform
-
-Developed a full-stack marketplace that helps local artisans showcase and sell products online.
-
-**Tech:** MongoDB, Express.js, React.js, Node.js
-
----
-
-### 📄 Resume Builder & Analyzer
-
-An NLP-powered platform that analyzes resumes, compares them with job descriptions, and generates personalized improvement suggestions.
-
-**Tech:** Python, Streamlit, NLP, Scikit-Learn
-
----
-
-## 💻 Tech Arsenal
+# 💻 Tech Stack
 
 ### Languages
 
-Java • Python • C++ • JavaScript • C
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### Frontend
 
-React.js • HTML • CSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ### Backend
 
-Spring Boot • Node.js • Express.js • REST APIs
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
 ### Databases
 
-MySQL • PostgreSQL • MongoDB
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### AI & ML
+### AI / ML
 
-Scikit-Learn • Pandas • NumPy • XGBoost
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 
 ### Tools
 
-Git • GitHub • Docker • Postman • VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-## 🏆 Highlights
+# 🚀 Featured Projects
 
-🏅 Smart India Hackathon 2025 Qualifier
+### 🏛️ VANI — AI-Powered e-Governance Kiosk
 
-🏅 HackMITWPU'25 Ideathon Semi-Finalist
+Multilingual AI assistant integrating OCR, NLP, voice interaction, and LLM-powered form assistance.
 
-🏅 Java Spring Boot Developer Intern at Ebix Technologies
+### 🏥 Predictive Analytics in Maternal & Cardiovascular Health
 
-🏅 Built AI, Healthcare, and Full-Stack Projects Solving Real-World Problems
+Machine learning models achieving up to 95% accuracy for healthcare risk prediction.
 
----
+### 🛒 Indian Handicrafts E-Commerce Platform
 
-## 📊 GitHub Activity
+Full-stack MERN marketplace supporting product management, authentication, and secure payments.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avani2518\&show_icons=true\&theme=tokyonight\&hide_border=true)
+### 📄 Resume Builder & Analyzer
 
-![GitHub Streak](https://streak-stats.demolab.com?user=avani2518\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avani2518\&layout=compact\&theme=tokyonight\&hide_border=true)
+NLP-powered application that analyzes resumes, matches job descriptions, and generates AI-based recommendations.
 
 ---
 
-## 🤝 Let's Connect
+# 🏆 Achievements
+
+🥇 Smart India Hackathon 2025 Qualifier
+
+🥈 HackMITWPU'25 Ideathon Semi-Finalist
+
+🚀 Java Spring Boot Developer Intern at Ebix Technologies
+
+---
+
+# 📊 GitHub Stats
+
+![Avani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avani2518\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=avani2518\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avani2518\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🌐 Connect With Me
 
 💼 LinkedIn: [www.linkedin.com/in/avani-halbe-559185251](http://www.linkedin.com/in/avani-halbe-559185251)
 
@@ -128,10 +112,6 @@ Git • GitHub • Docker • Postman • VS Code
 
 ---
 
-### ✨ Fun Fact
+# ✨ Fun Fact
 
-I love building projects where **Artificial Intelligence meets real-world impact** — whether it's healthcare, governance, education, or everyday productivity.
-
-My goal is simple:
-
-> Build technology that makes someone's life a little easier.
+I love combining AI with real-world challenges and building technology that makes everyday tasks simpler, smarter, and more accessible.
