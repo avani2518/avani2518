@@ -8,9 +8,6 @@ Software Developer • AI Enthusiast • Problem Solver
 Building impactful solutions with AI, Backend Engineering & Full-Stack Development 🚀
 </p>
 
-
-# Hi there 👋
-
 ---
 
 # 🌟 About Me
