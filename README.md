@@ -103,11 +103,10 @@ Developed an NLP-powered application that analyzes resumes, matches job descript
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=avani2518\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
+![Avani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avani2518\&show_icons=true\&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=avani2518\&theme=tokyonight\&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avani2518\&layout=compact\&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avani2518\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
 
 ---
 
