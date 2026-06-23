@@ -12,7 +12,7 @@ Building impactful solutions with AI, Backend Engineering & Full-Stack Developme
 
 # 🌟 About Me
 
-I'm **Avani Halbe**, a Final-Year B.Tech Computer Science & Engineering student at MIT World Peace University, Pune.
+I'm **Avani Halbe**, a B.Tech Computer Science & Engineering Graduate from MIT World Peace University, Pune
 
 💻 Passionate about Software Development, Artificial Intelligence, Machine Learning, and Backend Engineering.
 
